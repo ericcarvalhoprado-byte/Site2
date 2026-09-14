@@ -1,0 +1,22 @@
+
+article {
+    border: 2px solid #333333;       /* Borda do quadrado (espessura, estilo e cor) */
+    padding: 20px;                   /* Espaçamento interno para o texto não encostar na borda */
+    margin-bottom: 20px;            /* Espaçamento abaixo do post para separar do próximo */
+    background-color: #ffffff;      /* Cor de fundo do post */
+    border-radius: 0px;              /* Bordas retas no formato de quadrado perfeito */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave para dar destaque aos blocos (opcional) */
+}
+
+/* Opcional: Estilo simples para links dentro do post */
+article a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+article a:hover {
+    text-decoration: underline;
+}
