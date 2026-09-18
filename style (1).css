@@ -37,3 +37,30 @@ article{
 .artigo-autor{
     font-weight: bold;
 }
+
+.post-meta{
+  font-size:0,9rem;
+  color:bisque;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+.data-destaque{
+  font-weight:000;
+  color: #183C63;
+  background-color: #eee;
+  padding: 2px 0px;
+  border-radius: 4px;
+
+  
+}
+
+.relogio-post{
+    display: inline block;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1,2rem;
+    font-weight: bold;
+    color:black;
+    background-color: #efefef;
+    padding: ;
+}
